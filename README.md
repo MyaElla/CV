@@ -80,7 +80,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **OneEurope** (Sep 2013 – Jul 2015),
 *Social Media Manager*
 
-**[Lystable, now Kalo] (https://kalohq.com/)** (Apr – May 2015),
+**[Lystable, now Kalo](https://kalohq.com/)** (Apr – May 2015),
 *Marketing Internship*
 
 **Synco Telecom** (Nov 2009 – Feb 2010),
