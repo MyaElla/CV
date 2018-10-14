@@ -45,7 +45,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - **Beginners Introduction to Web Development:** HTML5, CSS3, JavaScript, jQuery.
 - **Python:** Python, Flask, Heroku, REST Apis & requests, JSON, version control tools (eg.Git, Bash, SourceTree)
 
-**[Fluency Digital](/)** (Oct 2014 – Dec 2014)
+**[Fluency.io](https://www.linkedin.com/company/fluency-learning/)** (Oct 2014 – Dec 2014)
 - **Cert in Digital Marketing:** WordPress, Social Media and Community Management, SEO, E-mail marketing and Google Analytics. Portfolio: http://bit.ly/1KFiuKA
 - **Mentee PPC & SEO:** Adwords,
 
@@ -68,10 +68,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience Highlights
 
-**[Connected Space](http://www.codefirstgirls.org.uk/)** (Mar 2017 - present),
+**[Connected Space](http://www.connected-space.co.uk/)** (Mar 2017 - present),
 *Jr Developer*
 
-**[BCSG](http://www.kcl.ac.uk/cultural/index.aspx)** (Jun 2015 – Feb 2017),
+**[BCSG](https://www.bcsg.com/)** (Jun 2015 – Feb 2017),
 *Product Content Coordinator*
 
 **Fabric8** (May – Jun 2015),
@@ -80,7 +80,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **OneEurope** (Sep 2013 – Jul 2015),
 *Social Media Manager*
 
-**Lystable** (Apr – May 2015),
+**[Lystable, now Kalo] (https://kalohq.com/)** (Apr – May 2015),
 *Marketing Internship*
 
 **Synco Telecom** (Nov 2009 – Feb 2010),
