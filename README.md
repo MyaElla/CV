@@ -1,6 +1,6 @@
 ## Mihaela Ciobanu
 
-[Personal website]() • [Medium blog](https://medium.com/@MyaElla) • [Twitter handle](https://twitter.com/MyaElla)
+[Personal website](https://myaella.github.io/) • [Medium blog](https://medium.com/@MyaElla) • [Twitter handle](https://twitter.com/MyaElla)
 
 A sentence about who and what you are.
 Then a sentence about what you've achieved.
